@@ -7,7 +7,7 @@ This mod has dependencies, such as Shuttle Orbiter Construction Kit, htRobotics 
 
 INSTALLATION
 
-Place the BuranOrbiter folder in your KSP/Gamedata directory.
+Place the BuranOrbiter folder in your KSP/GameData directory.
 
 DEPENDENCIES
 - Shuttle Orbiter Construction Kit, including Buran cockpit and OMS pod (found under Extras folder on SOCK's GitHub)
