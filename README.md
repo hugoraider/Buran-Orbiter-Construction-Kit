@@ -1,4 +1,5 @@
 BURAN ORBITER CONSTRUCTION KIT BETA 0.3.2 RC1
+
 A mod for Kerbal Space Program 1.12.X by hugoraider
 
 This mod provides a set of parts similar to the Soviet space shuttle known as Buran. It's intended to work with Energia launch vehicle from Tantares in a 2.5x solar system, but you can use it however you please!
