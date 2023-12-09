@@ -20,6 +20,10 @@ DEPENDENCIES
 
 CHANGELOG
 
+BETA 0.3.3 - RELEASE CANDIDATE 1
+- Added individual flags and decals
+- Added Energia decal. Energia decal by galopujacyjez
+
 BETA 0.3.2 - RELEASE CANDIDATE 1
 - Fixed Buran nose gear door orientation (thanks to benjee10)
 
