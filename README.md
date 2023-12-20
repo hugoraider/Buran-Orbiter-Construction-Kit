@@ -20,6 +20,9 @@ DEPENDENCIES
 
 CHANGELOG
 
+BETA 0.3.4 - RELEASE CANDIDATE 1
+- Fixed flipped normals on OK-GLI OMS pod
+
 BETA 0.3.3 - RELEASE CANDIDATE 1
 - Added individual flags and decals
 - Added Energia decal. Energia decal by galopujacyjez
